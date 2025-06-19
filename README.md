@@ -1,3 +1,3 @@
 # nidhi-demo
-This is my first git repository
-Author - Nidhi Singh
+This is my first git repository.
+Author - Nidhi Singh.
